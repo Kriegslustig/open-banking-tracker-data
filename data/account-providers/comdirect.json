@@ -37,12 +37,12 @@
     "status": "available",
     "sourceUrl": "https://xs2a-developer.comdirect.de/"
   },
-  "developerPortalUrl": "https://www.comdirect.de/wertpapierhandel/wertpapierhandel.html",
+  "developerPortalUrl": "https://xs2a-developer.comdirect.de/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://www.comdirect.de/wertpapierhandel/wertpapierhandel.html",
+  "apiReferenceUrl": "https://xs2a-developer.comdirect.de/",
   "apiPerformanceReports": [],
   "apiSpecs": [],
   "apiProducts": [
